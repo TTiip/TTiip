@@ -1,10 +1,20 @@
-### Hi there 👋
+### Hi Everybody 👋
+
+I'm currently a student and a front-end programmer.
+
+💬 微信: 这个东西比较玄乎，几乎一年换一次，就不写了。
+
+✉️ Mail: 539850233@qq.com
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTiip&show_icons=true&theme=tokyonight)
+
+
+
 
 <!--
-**TTiip/TTiip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**chenfan0/chenfan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
