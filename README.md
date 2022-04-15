@@ -8,7 +8,7 @@ I'm currently a student and a front-end programmer.
 <br>
 <br />
 
-<p align="center">
+<!-- <p align="center">
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
@@ -23,7 +23,7 @@ I'm currently a student and a front-end programmer.
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
 </p>
-<br />
+<br /> -->
 
 |![](https://github-readme-stats.vercel.app/api?username=TTiip&show_icons=true&theme=tokyonight)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=TTiip&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
