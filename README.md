@@ -9,7 +9,7 @@ and a `front-end` programmer.
 
 💬 微信: 这个东西比较玄乎，几乎一年换一次，就不写了。
 
-✉️ Mail: 539850233@qq.com
+✉️ Mail: hexirs@qq.com
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi,
 <br/> I'll be happy to meet you more!</b> : )</em>
